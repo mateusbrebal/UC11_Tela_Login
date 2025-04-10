@@ -1,0 +1,10 @@
+C:\Users\mateus.mbhespana\source\repos\UC11_Tela_Login\UC11_Tela_Login\bin\Debug\UC11_Tela_Login.exe.config
+C:\Users\mateus.mbhespana\source\repos\UC11_Tela_Login\UC11_Tela_Login\bin\Debug\UC11_Tela_Login.exe
+C:\Users\mateus.mbhespana\source\repos\UC11_Tela_Login\UC11_Tela_Login\bin\Debug\UC11_Tela_Login.pdb
+C:\Users\mateus.mbhespana\source\repos\UC11_Tela_Login\UC11_Tela_Login\obj\Debug\UC11_Tela_Login.csproj.AssemblyReference.cache
+C:\Users\mateus.mbhespana\source\repos\UC11_Tela_Login\UC11_Tela_Login\obj\Debug\UC11_Tela_Login.Form1.resources
+C:\Users\mateus.mbhespana\source\repos\UC11_Tela_Login\UC11_Tela_Login\obj\Debug\UC11_Tela_Login.Properties.Resources.resources
+C:\Users\mateus.mbhespana\source\repos\UC11_Tela_Login\UC11_Tela_Login\obj\Debug\UC11_Tela_Login.csproj.GenerateResource.cache
+C:\Users\mateus.mbhespana\source\repos\UC11_Tela_Login\UC11_Tela_Login\obj\Debug\UC11_Tela_Login.csproj.CoreCompileInputs.cache
+C:\Users\mateus.mbhespana\source\repos\UC11_Tela_Login\UC11_Tela_Login\obj\Debug\UC11_Tela_Login.exe
+C:\Users\mateus.mbhespana\source\repos\UC11_Tela_Login\UC11_Tela_Login\obj\Debug\UC11_Tela_Login.pdb
